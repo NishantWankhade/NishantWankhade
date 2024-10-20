@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am Software Development Intern @ IIT-Bombay<br>working on their project called "Project Udaan, Breaking Language Barrier"<br><br>I am pursuing B.Tech. in Electronics and Communication Engineering.
+Hey there,
+I am currently doing M.Tech in Robotics from Indian institute of technology Delhi.<br>I completed my B.Tech. in Electronics and Communication Engineering from Guru Ghasidas Vishwavidyalaya.<br>
 
+I am Software Development Intern @ IIT-Bombay<br>working on their project called "Project Udaan, Breaking Language Barrier"<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishant-wankhade/) 
