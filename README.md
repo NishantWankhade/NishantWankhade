@@ -2,7 +2,8 @@
 Hey there,
 I am currently doing M.Tech in Robotics from Indian institute of technology Delhi.<br>I completed my B.Tech. in Electronics and Communication Engineering from Guru Ghasidas Vishwavidyalaya.<br>
 
-I am Software Development Intern at IIT-Bombay working on a project called "Project Udaan, Breaking Language Barrier"<br>
+I was Software Development Intern at IIT-Bombay working on a QT based [**LEAP-PE Tool**](https://github.com/UDAAN-LEAP/leap-pe-tool) as a part of project called [**"Project Udaan, Breaking Language Barrier"**](https://udaanproject.org/) <br>
+I was Engineering Trainee at Hixaa Technologies Pvt. Ltd. working on a project called [**"Intelligent Silo Bulker Parking Systems"**](https://www.linkedin.com/posts/hixaa_computer-vision-based-smart-silo-bulker-parking-activity-7140266934876495872-phCp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADN4D0IBVi7GZEIocj-_KkFn1Jo4-spNPdA). I was also a part of deployment.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishant-wankhade/) 
